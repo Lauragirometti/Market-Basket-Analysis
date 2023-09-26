@@ -1,2 +1,2 @@
 # Market-Basket-Analysis
-Web marketing project
+The aim of thi project is to develop a market basket analysis.
