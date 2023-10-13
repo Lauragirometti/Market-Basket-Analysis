@@ -1,2 +1,2 @@
 # Market-Basket-Analysis
-The aim of thi project is to develop a market basket analysis.
+The aim of this project is to develop a market basket analysis.
